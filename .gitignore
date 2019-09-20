@@ -1,0 +1,7 @@
+*.class
+target/
+
+.DS_Store
+*.xml
+*.iml
+*.name
